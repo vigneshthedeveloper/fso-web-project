@@ -1,0 +1,28 @@
+.bus-title-bar{
+    margin: 300px 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.bus-title{
+    margin: 20px 30px;
+}
+
+.bus-text{
+    margin: 20px 30px;
+}
+
+#tandc{
+    margin-bottom: 15px;
+}
+
+.enabled{
+    display: block;
+    background: #fff;
+    border: 1px solid #000;
+    padding: 10px 30px;
+    border-radius: 10px;
+    font-weight: 800;
+}
